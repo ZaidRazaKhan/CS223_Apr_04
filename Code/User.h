@@ -13,7 +13,7 @@ using namespace std;
 	/// check if all chars are between 0 and 9
 	for(int i = 0 ; i < num.size() ; ++i ) if(!(num[i] >= '0' and num[i] <= '9')) return false; return (num.size() == 10) ;
 }*/
-#include "Validate.h"
+//#include "Validate.h"
 //set<string>usernameDatabase;
 /*fstream ip("UsernameDatabase.txt") ;
 
